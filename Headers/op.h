@@ -1,0 +1,1 @@
+extern int rsosor;  //變數宣告
